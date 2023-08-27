@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" path="ch03_operator"/>
 	<classpathentry kind="src" path="ch04_forWhile"/>
 	<classpathentry kind="src" path="ch05_reference_type"/>
 	<classpathentry kind="src" path="ch06_class"/>
 	<classpathentry kind="src" path="StandardOfJava"/>
+	<classpathentry kind="src" path="ch07_inheritance"/>
+	<classpathentry kind="src" path="ch08_interface"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
