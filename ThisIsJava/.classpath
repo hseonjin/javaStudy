@@ -9,6 +9,7 @@
 	<classpathentry kind="src" path="ch08_interface"/>
 	<classpathentry kind="src" path="ch11_exception"/>
 	<classpathentry kind="src" path="ch12_modules"/>
+	<classpathentry kind="src" path="ch13_generic"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
