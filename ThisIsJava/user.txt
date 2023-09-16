@@ -1,0 +1,3 @@
+id: winter
+email: winter@w.com
+tel: 010-0000-0000

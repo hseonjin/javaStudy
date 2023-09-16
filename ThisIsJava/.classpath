@@ -11,6 +11,7 @@
 	<classpathentry kind="src" path="ch12_modules"/>
 	<classpathentry kind="src" path="ch13_generic"/>
 	<classpathentry kind="src" path="ch15_collection"/>
+	<classpathentry kind="src" path="ch18.dataStream"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
